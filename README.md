@@ -1,4 +1,4 @@
-![image](https://ibb.co/74js7zG][img]https://i.ibb.co/6Brj6Z4/face-trck.png)
+![image]([url=https://ibb.co/74js7zG][img]https://i.ibb.co/6Brj6Z4/face-trck.png[/img][/url])
 
 # Object-Track
 My project is determining the distance of Face from a camera on real time based , This is actually a very well studied problem in the computer vision/image processing space and  algorithm is designed to serve the position identification of object for the robots and other systems 
